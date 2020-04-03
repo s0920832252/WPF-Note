@@ -1,7 +1,10 @@
 # WPF-Note
 
-[Windows Presentation Foundation (WPF)](https://github.com/dotnet/wpf)
+[Windows Presentation Foundation (WPF)](https://github.com/dotnet/wpf)  
+
 [WPF for .NET Core Roadmap](https://github.com/dotnet/wpf/blob/master/roadmap.md)
+
+[Is WPF Still Relevant in 2019?](https://www.claudiobernasconi.ch/2019/01/30/is-wpf-still-relevant-in-2019/)
 
 1. XAML
     - 概述
