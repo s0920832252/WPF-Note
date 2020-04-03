@@ -1,8 +1,4 @@
 # WPF-Note
-此為上 Bill 叔的 WPF 翻轉課程後的 WPF 筆記  
-[Bill 叔的部落格](https://dotblogs.com.tw/billchung)  
-[Bill 叔的GitHub](https://github.com/billchungiii)
-
 1. XAML
     - 概述
     - 基本概念
